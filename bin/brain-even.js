@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-import { entrance, parityCheck } from '../src/index.js';
+import startEven from '../games/brain-even.js';
 
-entrance();
-parityCheck();
+startEven();
