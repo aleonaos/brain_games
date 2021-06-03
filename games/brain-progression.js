@@ -3,13 +3,11 @@ import getRandomNumber from '../src/index.js';
 
 const instruction = 'What number is missing in the progression?';
 
-const getDataForGame = () => {
-  const game = [];
-
+const createProgression = () => {
   const progression = [];
   const lengthProgression = getRandomNumber(5, 10);
-
   const stepProgression = getRandomNumber(0, 25);
+
   const firstElement = getRandomNumber(0, 50);
   progression.push(firstElement);
 
@@ -17,7 +15,15 @@ const getDataForGame = () => {
     progression[i] = progression[i - 1] + stepProgression;
   }
 
-  const hiddenElemenet = getRandomNumber(0, lengthProgression - 1);
+  return progression;
+};
+
+const getDataForGame = () => {
+  const game = [];
+
+  const progression = createProgression();
+  const sizeProgression = progression.length;
+  const hiddenElemenet = getRandomNumber(0, sizeProgression - 1);
   const answer = `${progression[hiddenElemenet]}`;
   progression[hiddenElemenet] = '..';
 
