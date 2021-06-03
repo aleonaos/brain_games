@@ -6,10 +6,13 @@ const isEven = (number) => (number > 0 && number % 2 === 0);
 
 const getDataForGame = () => {
   const game = [];
+
   const question = getRandomNumber(0, 100);
   game.push(question);
+
   const answer = isEven(question) ? 'yes' : 'no';
   game.push(answer);
+
   return game;
 };
 
