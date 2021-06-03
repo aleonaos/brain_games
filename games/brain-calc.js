@@ -9,8 +9,8 @@ const lastIndex = operators.length - 1;
 const getDataForGame = () => {
   const game = [];
 
-  const number1 = getRandomNumber(0, 100);
-  const number2 = getRandomNumber(0, 100);
+  const number1 = getRandomNumber(0, 50);
+  const number2 = getRandomNumber(0, 50);
   const operatorNumber = getRandomNumber(0, lastIndex);
   const operator = operators[operatorNumber];
 
