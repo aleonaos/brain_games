@@ -1,5 +1,5 @@
 import play from '../src/engine.js';
-import getRandomNumber from '../src/index.js';
+import getRandomNumber from '../src/random.js';
 
 const instruction = 'Find the greatest common divisor of given numbers.';
 
@@ -10,6 +10,7 @@ const findGcd = (number1, number2) => {
   if (!number2) {
     return number1;
   }
+
   return findGcd(number2, number1 % number2);
 };
 
