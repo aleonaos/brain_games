@@ -34,6 +34,8 @@ $ npm link
 
 ### Video with examples of running games below.
 
+---
+
 ### brain-even ( [to contents](#contents) ) <a name="brain-even"></a>
 Determination of an even number.
 
