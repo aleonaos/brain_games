@@ -1,5 +1,5 @@
 import play from '../src/engine.js';
-import getRandomNumber from '../src/index.js';
+import getRandomNumber from '../src/random.js';
 
 const instruction = 'What number is missing in the progression?';
 

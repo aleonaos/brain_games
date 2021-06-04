@@ -1,5 +1,5 @@
 import play from '../src/engine.js';
-import getRandomNumber from '../src/index.js';
+import getRandomNumber from '../src/random.js';
 
 const instruction = 'Answer "yes" if the number is even, otherwise answer "no".';
 const isEven = (number) => (number > 0 && number % 2 === 0);
