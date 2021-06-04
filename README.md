@@ -34,7 +34,6 @@ $ npm link
 
 ### Video with examples of running games below.
 
----
 
 ### brain-even ( [to contents](#contents) ) <a name="brain-even"></a>
 Determination of an even number.
@@ -60,7 +59,7 @@ Determination of the greatest common divisor.
 ### brain-progression ( [to contents](#contents) ) <a name="brain-progression"></a>
 Progression. Search for missing numbers in a sequence of numbers.
 
-
+![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-progression-example.gif?raw=true)
 
 ---
 
