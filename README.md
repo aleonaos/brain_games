@@ -67,5 +67,3 @@ Progression. Search for missing numbers in a sequence of numbers.
 Definition of a prime number.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-prime-example.gif?raw=true)
-
----
