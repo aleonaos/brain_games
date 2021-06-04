@@ -34,35 +34,35 @@ $ npm link
 
 ### Video with examples of running games below.
 
-### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
+### brain-even ( [to contents](#contents) ) <a name="brain-even"></a>
 Determination of an even number.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-even-example.gif?raw=true)
 
 ---
 
-### brain-calc demo ( [to contents](#contents) ) <a name="brain-calc"></a>
+### brain-calc ( [to contents](#contents) ) <a name="brain-calc"></a>
 Calculator. Arithmetic expressions to be evaluated.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-calc-example.gif?raw=true)
 
 ---
 
-### brain-gcd demo ( [to contents](#contents) ) <a name="brain-gcd"></a>
+### brain-gcd ( [to contents](#contents) ) <a name="brain-gcd"></a>
 Determination of the greatest common divisor.
 
-
+![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-gcd-example.gif?raw=true)
 
 ---
 
-### brain-progression demo ( [to contents](#contents) ) <a name="brain-progression"></a>
+### brain-progression ( [to contents](#contents) ) <a name="brain-progression"></a>
 Progression. Search for missing numbers in a sequence of numbers.
 
 
 
 ---
 
-### brain-prime demo ( [to contents](#contents) ) <a name="brain-prime"></a>
+### brain-prime ( [to contents](#contents) ) <a name="brain-prime"></a>
 Definition of a prime number.
 
 
