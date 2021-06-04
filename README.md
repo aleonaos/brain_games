@@ -37,7 +37,7 @@ $ npm link
 ### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
 Determination of an even number.
 
-
+![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-even-example.gif?raw=true)
 
 ---
 
