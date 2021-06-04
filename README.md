@@ -44,7 +44,7 @@ Determination of an even number.
 ### brain-calc demo ( [to contents](#contents) ) <a name="brain-calc"></a>
 Calculator. Arithmetic expressions to be evaluated.
 
-
+![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-calc-example.gif?raw=true)
 
 ---
 
