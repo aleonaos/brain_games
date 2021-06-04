@@ -25,7 +25,46 @@ Each game asks questions that need to be answered correctly. After three correct
 ### Installation
 ```
 $ git clone git@github.com:aleonaos/frontend-project-lvl1.git
+
 $ cd frontend-project-lvl1
+
 $ npm link
 ```
+---
+
+### Video with examples of running games below.
+
+### brain-even demo ( [to contents](#contents) ) <a name="brain-even"></a>
+Determination of an even number.
+
+
+
+---
+
+### brain-calc demo ( [to contents](#contents) ) <a name="brain-calc"></a>
+Calculator. Arithmetic expressions to be evaluated.
+
+
+
+---
+
+### brain-gcd demo ( [to contents](#contents) ) <a name="brain-gcd"></a>
+Determination of the greatest common divisor.
+
+
+
+---
+
+### brain-progression demo ( [to contents](#contents) ) <a name="brain-progression"></a>
+Progression. Search for missing numbers in a sequence of numbers.
+
+
+
+---
+
+### brain-prime demo ( [to contents](#contents) ) <a name="brain-prime"></a>
+Definition of a prime number.
+
+
+
 ---
