@@ -17,8 +17,8 @@ const findGcd = (number1, number2) => {
 const getDataForGame = () => {
   const game = [];
 
-  const number1 = getRandomNumber(0, 100);
-  const number2 = getRandomNumber(0, 100);
+  const number1 = getRandomNumber(0, 50);
+  const number2 = getRandomNumber(0, 50);
 
   const question = `${number1} ${number2}`;
   game.push(question);
