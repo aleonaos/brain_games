@@ -35,35 +35,35 @@ $ npm link
 ### Видео с примерами запуска игр.
 
 
-### brain-even ( [to contents](#contents) ) <a name="brain-even"></a>
+### brain-even ( [к описанию](#contents) ) <a name="brain-even"></a>
 Определение чётного числа.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-even-example.gif?raw=true)
 
 ---
 
-### brain-calc ( [to contents](#contents) ) <a name="brain-calc"></a>
+### brain-calc ( [к описанию](#contents) ) <a name="brain-calc"></a>
 Калькулятор. Решение арифметических операций.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-calc-example.gif?raw=true)
 
 ---
 
-### brain-gcd ( [to contents](#contents) ) <a name="brain-gcd"></a>
+### brain-gcd ( [к описанию](#contents) ) <a name="brain-gcd"></a>
 Определение наибольшего общего делителя.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-gcd-example.gif?raw=true)
 
 ---
 
-### brain-progression ( [to contents](#contents) ) <a name="brain-progression"></a>
+### brain-progression ( [к описанию](#contents) ) <a name="brain-progression"></a>
 Прогрессия. Поиск недостающих элементов в последовательности чисел.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-progression-example.gif?raw=true)
 
 ---
 
-### brain-prime ( [to contents](#contents) ) <a name="brain-prime"></a>
+### brain-prime ( [к описанию](#contents) ) <a name="brain-prime"></a>
 Определение простого числа.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-prime-example.gif?raw=true)
