@@ -1,6 +1,6 @@
 <a name="contents"></a>
 
-## Brain games
+## Игры разума
 [brain-games]: https://github.com/aleonaos/frontend-project-lvl1 "Brain-games"
 
 
@@ -10,19 +10,19 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/aleonaos/frontend-project-lvl1/maintainability)
 
-Brain Games - a set of 5 console games built on the principle of popular mobile brain pumping applications. 
-Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over.
+Игры разума - набор из 5 консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга.
+Каждая игра задаёт вопросы, на которые нужно правильно ответить. После трёх корректных ответов игра заканчивается.
 
-##### Brain games
-* [brain-even](#brain-even) - Determination of an even number.
-* [brain-calc](#brain-calc) - Calculator. Arithmetic expressions to be evaluated.
-* [brain-gcd](#brain-gcd) - Determination of the greatest common divisor.
-* [brain-progression](#brain-progression) - Progression. Search for missing numbers in a sequence of numbers.
-* [brain-prime](#brain-prime) - Definition of a prime number.
+##### Игры разума
+* [brain-even](#brain-even) - Определение чётного числа.
+* [brain-calc](#brain-calc) - Калькулятор. Решение арифметических операций.
+* [brain-gcd](#brain-gcd) - Определение наибольшего общего делителя.
+* [brain-progression](#brain-progression) - Прогрессия. Поиск недостающих элементов в последовательности чисел.
+* [brain-prime](#brain-prime) - Определение простого числа.
 
 ---
 
-### Installation
+### Установка
 ```
 $ git clone git@github.com:aleonaos/frontend-project-lvl1.git
 
@@ -32,38 +32,38 @@ $ npm link
 ```
 ---
 
-### Video with examples of running games below.
+### Видео с примерами запуска игр.
 
 
 ### brain-even ( [to contents](#contents) ) <a name="brain-even"></a>
-Determination of an even number.
+Определение чётного числа.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-even-example.gif?raw=true)
 
 ---
 
 ### brain-calc ( [to contents](#contents) ) <a name="brain-calc"></a>
-Calculator. Arithmetic expressions to be evaluated.
+Калькулятор. Решение арифметических операций.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-calc-example.gif?raw=true)
 
 ---
 
 ### brain-gcd ( [to contents](#contents) ) <a name="brain-gcd"></a>
-Determination of the greatest common divisor.
+Определение наибольшего общего делителя.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-gcd-example.gif?raw=true)
 
 ---
 
 ### brain-progression ( [to contents](#contents) ) <a name="brain-progression"></a>
-Progression. Search for missing numbers in a sequence of numbers.
+Прогрессия. Поиск недостающих элементов в последовательности чисел.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-progression-example.gif?raw=true)
 
 ---
 
 ### brain-prime ( [to contents](#contents) ) <a name="brain-prime"></a>
-Definition of a prime number.
+Определение простого числа.
 
 ![Alt Text](https://github.com/aleonaos/frontend-project-lvl1/blob/main/src/examples/brain-prime-example.gif?raw=true)
