@@ -16,6 +16,12 @@
 
 Стек: _JS, Node.js, readlineSync, ESLint, npm, make, Git, GitHub Actions (CI), CodeClimate_.
 
+Основные задачи проекта:
+
+- [x] Настройка окружения.
+- [x] Работа с JavaScript.
+- [x] Создание архитектуры приложения.
+
 ##### Игры разума
 
 - [brain-even](#brain-even) - Определение чётного числа.
